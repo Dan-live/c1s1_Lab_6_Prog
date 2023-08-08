@@ -28,3 +28,7 @@ Task for option 5
 Given n
 #
 ![image](https://github.com/Dan-live/k1s1_Lab_6_Prog/assets/109356212/1f072f69-7bd7-4a7d-b159-4ca5564d5cc6)
+
+![image](https://github.com/Dan-live/k1s1_Lab_6_Prog/assets/109356212/727baa1a-d05a-42fb-98a3-8375c4b78cab)
+
+![image](https://github.com/Dan-live/k1s1_Lab_6_Prog/assets/109356212/99a622c6-a628-459d-b033-b775f82a9e40)
