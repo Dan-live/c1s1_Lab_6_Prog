@@ -1,4 +1,4 @@
-# k1s1_Lab_6_Prog
+# c1s1_Lab_6_Prog
 Setting the task
 Perform actions with strings according to the task option. Initial definitions: 
 - A word is a sequence of any characters, except spaces, whose length 
